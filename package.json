@@ -1,7 +1,8 @@
 {
-  "name": "mcp-direct-run",
+  "name": "brightdata-mcp",
   "version": "1.0.0",
-  "type": "module",
+  "description": "Bright Data MCP direct runner",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
