@@ -1,0 +1,11 @@
+{
+  "name": "mcp-direct-run",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@brightdata/mcp": "^0.1.0"
+  }
+}
